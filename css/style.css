@@ -224,6 +224,7 @@ a {
     flex-wrap: wrap;
     background-image: url('img/head4.png');
     background-size: auto;
+    font-family: "Montserrat Alternates", sans-serif;
     border-radius: 30px;
     max-width: 1130px;
     width: 100%;
